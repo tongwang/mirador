@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "thumbnail": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/1/full/421,/0/default.jpg", 
+          "height": 9068, 
+          "width": 6739, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level0.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/1"
+                }, 
+                "format": "image/jpeg", 
+                "height": 9068, 
+                "width": 6739, 
+                "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/1", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/1", 
+              "@type": "oa:Annotation"
+            }
+          ], 
+          "label": "page 1", 
+          "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/1", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "thumbnail": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/2/full/421,/0/default.jpg", 
+          "height": 9068, 
+          "width": 6739, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level0.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/2"
+                }, 
+                "format": "image/jpeg", 
+                "height": 9068, 
+                "width": 6739, 
+                "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/2", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/2", 
+              "@type": "oa:Annotation"
+            }
+          ], 
+          "label": "page 2", 
+          "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/2", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "thumbnail": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/3/full/423,/0/default.jpg", 
+          "height": 9055, 
+          "width": 6772, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level0.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/3"
+                }, 
+                "format": "image/jpeg", 
+                "height": 9055, 
+                "width": 6772, 
+                "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/3", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/3", 
+              "@type": "oa:Annotation"
+            }
+          ], 
+          "label": "page 3", 
+          "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/3", 
+          "@type": "sc:Canvas"
+        }, 
+        {
+          "thumbnail": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/4/full/421,/0/default.jpg", 
+          "height": 9068, 
+          "width": 6739, 
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level0.json", 
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/4"
+                }, 
+                "format": "image/jpeg", 
+                "height": 9068, 
+                "width": 6739, 
+                "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/4", 
+                "@type": "dctypes:Image"
+              }, 
+              "motivation": "sc:painting", 
+              "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/4", 
+              "@type": "oa:Annotation"
+            }
+          ], 
+          "label": "page 4", 
+          "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/4", 
+          "@type": "sc:Canvas"
+        }
+      ], 
+      "@id": "normal", 
+      "@type": "sc:Sequence", 
+      "label": "page order"
+    }
+  ], 
+  "@id": "https://umd-mith.github.io/ndnp_iiif/sn83009569/1865-10-04/issue.json", 
+  "@type": "sc:Manifest", 
+  "label": "Baltimore Daily Commercial (1865-10-04)"
+}
