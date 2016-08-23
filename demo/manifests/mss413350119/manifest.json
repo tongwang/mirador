@@ -1,0 +1,2367 @@
+{"attribution":"Provided by the Library of Congress",
+"description":"",
+"viewingDirection":"left-to-right",
+"sequences":[
+    {
+        "canvases": [
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1025, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-1/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1025, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/1"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-1/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2051, 
+                            "width": 2613, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0582.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/1"
+                    }
+                ], 
+                "label": "Page 1", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/1", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 691, 
+                    "height": 1046, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-2/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1046, 
+                            "width": 691, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/2"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-2/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2092, 
+                            "width": 1383, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0583.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/2"
+                    }
+                ], 
+                "label": "Page 2", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/2", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1308, 
+                    "height": 1039, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-3/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1039, 
+                            "width": 1308, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/3"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-3/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2079, 
+                            "width": 2616, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0584.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/3"
+                    }
+                ], 
+                "label": "Page 3", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/3", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1294, 
+                    "height": 1043, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-4/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1043, 
+                            "width": 1294, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/4"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-4/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2086, 
+                            "width": 2589, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0585.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/4"
+                    }
+                ], 
+                "label": "Page 4", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/4", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1299, 
+                    "height": 1039, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-5/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1039, 
+                            "width": 1299, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/5"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-5/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2079, 
+                            "width": 2599, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0586.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/5"
+                    }
+                ], 
+                "label": "Page 5", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/5", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1310, 
+                    "height": 1051, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-6/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1051, 
+                            "width": 1310, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/6"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-6/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2102, 
+                            "width": 2620, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0587.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/6"
+                    }
+                ], 
+                "label": "Page 6", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/6", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1045, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-7/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1045, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/7"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-7/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2090, 
+                            "width": 2613, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0588.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/7"
+                    }
+                ], 
+                "label": "Page 7", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/7", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1048, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-8/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1048, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/8"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-8/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2096, 
+                            "width": 2613, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0589.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/8"
+                    }
+                ], 
+                "label": "Page 8", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/8", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1303, 
+                    "height": 1042, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-9/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1042, 
+                            "width": 1303, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/9"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-9/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2085, 
+                            "width": 2606, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0590.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/9"
+                    }
+                ], 
+                "label": "Page 9", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/9", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1316, 
+                    "height": 1053, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-10/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1053, 
+                            "width": 1316, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/10"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-10/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2107, 
+                            "width": 2632, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0591.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/10"
+                    }
+                ], 
+                "label": "Page 10", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/10", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1331, 
+                    "height": 1065, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-11/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1065, 
+                            "width": 1331, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/11"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-11/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2130, 
+                            "width": 2663, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0592.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/11"
+                    }
+                ], 
+                "label": "Page 11", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/11", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1323, 
+                    "height": 1059, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-12/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1059, 
+                            "width": 1323, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/12"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-12/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2118, 
+                            "width": 2646, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0593.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/12"
+                    }
+                ], 
+                "label": "Page 12", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/12", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1342, 
+                    "height": 1073, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-13/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1073, 
+                            "width": 1342, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/13"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-13/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2147, 
+                            "width": 2685, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0594.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/13"
+                    }
+                ], 
+                "label": "Page 13", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/13", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1256, 
+                    "height": 1050, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-14/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1050, 
+                            "width": 1256, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/14"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-14/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2100, 
+                            "width": 2512, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0595.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/14"
+                    }
+                ], 
+                "label": "Page 14", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/14", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1283, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-15/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1283, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/15"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-15/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2083, 
+                            "width": 2567, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0596.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/15"
+                    }
+                ], 
+                "label": "Page 15", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/15", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1271, 
+                    "height": 1062, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-16/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1062, 
+                            "width": 1271, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/16"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-16/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2125, 
+                            "width": 2543, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0597.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/16"
+                    }
+                ], 
+                "label": "Page 16", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/16", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1051, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-17/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1051, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/17"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-17/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2103, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0598.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/17"
+                    }
+                ], 
+                "label": "Page 17", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/17", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1268, 
+                    "height": 1059, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-18/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1059, 
+                            "width": 1268, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/18"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-18/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2119, 
+                            "width": 2536, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0500/0599.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/18"
+                    }
+                ], 
+                "label": "Page 18", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/18", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1051, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-19/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1051, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/19"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-19/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2103, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0600.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/19"
+                    }
+                ], 
+                "label": "Page 19", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/19", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1268, 
+                    "height": 1060, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-20/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1060, 
+                            "width": 1268, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/20"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-20/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2120, 
+                            "width": 2536, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0601.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/20"
+                    }
+                ], 
+                "label": "Page 20", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/20", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1051, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-21/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1051, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/21"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-21/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2103, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0602.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/21"
+                    }
+                ], 
+                "label": "Page 21", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/21", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1052, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-22/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1052, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/22"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-22/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2104, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0603.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/22"
+                    }
+                ], 
+                "label": "Page 22", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/22", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1283, 
+                    "height": 1039, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-23/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1039, 
+                            "width": 1283, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/23"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-23/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2079, 
+                            "width": 2567, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0604.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/23"
+                    }
+                ], 
+                "label": "Page 23", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/23", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1052, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-24/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1052, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/24"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-24/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2104, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0605.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/24"
+                    }
+                ], 
+                "label": "Page 24", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/24", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1280, 
+                    "height": 1036, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-25/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1036, 
+                            "width": 1280, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/25"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-25/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2073, 
+                            "width": 2560, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0606.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/25"
+                    }
+                ], 
+                "label": "Page 25", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/25", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1052, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-26/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1052, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/26"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-26/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2104, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0607.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/26"
+                    }
+                ], 
+                "label": "Page 26", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/26", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1280, 
+                    "height": 1036, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-27/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1036, 
+                            "width": 1280, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/27"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-27/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2073, 
+                            "width": 2560, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0608.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/27"
+                    }
+                ], 
+                "label": "Page 27", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/27", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1296, 
+                    "height": 1052, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-28/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1052, 
+                            "width": 1296, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/28"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-28/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2104, 
+                            "width": 2592, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0609.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/28"
+                    }
+                ], 
+                "label": "Page 28", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/28", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1283, 
+                    "height": 1039, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-29/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1039, 
+                            "width": 1283, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/29"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-29/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2079, 
+                            "width": 2567, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0610.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/29"
+                    }
+                ], 
+                "label": "Page 29", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/29", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1299, 
+                    "height": 1043, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-30/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1043, 
+                            "width": 1299, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/30"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-30/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2086, 
+                            "width": 2599, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0611.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/30"
+                    }
+                ], 
+                "label": "Page 30", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/30", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1311, 
+                    "height": 1046, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-31/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1046, 
+                            "width": 1311, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/31"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-31/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2092, 
+                            "width": 2623, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0612.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/31"
+                    }
+                ], 
+                "label": "Page 31", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/31", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-32/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/32"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-32/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2082, 
+                            "width": 2612, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0613.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/32"
+                    }
+                ], 
+                "label": "Page 32", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/32", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1315, 
+                    "height": 1049, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-33/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1049, 
+                            "width": 1315, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/33"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-33/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2098, 
+                            "width": 2630, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0614.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/33"
+                    }
+                ], 
+                "label": "Page 33", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/33", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-34/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/34"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-34/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2082, 
+                            "width": 2612, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0615.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/34"
+                    }
+                ], 
+                "label": "Page 34", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/34", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1315, 
+                    "height": 1049, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-35/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1049, 
+                            "width": 1315, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/35"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-35/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2098, 
+                            "width": 2630, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0616.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/35"
+                    }
+                ], 
+                "label": "Page 35", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/35", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-36/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/36"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-36/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2082, 
+                            "width": 2612, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0617.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/36"
+                    }
+                ], 
+                "label": "Page 36", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/36", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1315, 
+                    "height": 1049, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-37/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1049, 
+                            "width": 1315, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/37"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-37/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2098, 
+                            "width": 2630, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0618.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/37"
+                    }
+                ], 
+                "label": "Page 37", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/37", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-38/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/38"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-38/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2082, 
+                            "width": 2612, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0619.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/38"
+                    }
+                ], 
+                "label": "Page 38", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/38", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1311, 
+                    "height": 1046, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-39/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1046, 
+                            "width": 1311, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/39"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-39/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2092, 
+                            "width": 2623, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0620.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/39"
+                    }
+                ], 
+                "label": "Page 39", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/39", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1306, 
+                    "height": 1041, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-40/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1041, 
+                            "width": 1306, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/40"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-40/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2082, 
+                            "width": 2612, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0621.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/40"
+                    }
+                ], 
+                "label": "Page 40", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/40", 
+                "@type": "sc:Canvas"
+            }, 
+            {
+                "thumbnail": {
+                    "width": 1311, 
+                    "height": 1046, 
+                    "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=2", 
+                    "service": {
+                        "profile": "http://iiif.io/api/image/2/level2.json", 
+                        "@context": "http://iiif.io/api/image/2/context.json", 
+                        "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=2"
+                    }, 
+                    "format": "image/jpeg"
+                }, 
+                "height": 0, 
+                "width": 0, 
+                "images": [
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-41/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=2"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 1046, 
+                            "width": 1311, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=2", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/41"
+                    }, 
+                    {
+                        "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/seq-41/", 
+                        "motivation": "sc:painting", 
+                        "resource": {
+                            "service": {
+                                "profile": "http://iiif.io/api/image/2/level2.json", 
+                                "@context": "http://iiif.io/api/image/2/context.json", 
+                                "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=1"
+                            }, 
+                            "format": "image/jpeg", 
+                            "height": 2092, 
+                            "width": 2623, 
+                            "@id": "https://tile.loc.gov/image-services/jp2.py?data=/service/mss/mss41335/057/0600/0622.jp2&res=1", 
+                            "@type": "dctypes:Image"
+                        }, 
+                        "@type": "oa:Annotation", 
+                        "on": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/41"
+                    }
+                ], 
+                "label": "Page 41", 
+                "@id": "https://www.loc.gov/resource/mss41335.057_0582_0622/sequence/1/canvas/41", 
+                "@type": "sc:Canvas"
+            }
+        ], 
+        "@type": "sc:Sequence", 
+        "label": "Order of the views"
+    }
+],
+"logo":"https://www.loc.gov/static/images/library-of-congress-logo.png?36839.31053",
+"label":"Alexander Hamilton Stephens Papers: Autobiography and Journal, 1834-1837; Bound vol., 1834, Apr. 14-1837, Jan. 26",
+"@id":"http://www.loc.gov/item/mss413350119/manifest.json",
+"viewingHint":"paged",
+"@type":"sc:Manifest",
+"@context":"http://iiif.io/api/presentation/2/context.json",
+"seeAlso":[
+    {
+        "@id": "http://hdl.loc.gov/loc.mss/ms010138.mss41335.0119", 
+        "format": "text/html"
+    }
+],
+"thumbnail":{
+    "@id": "https://cdn.loc.gov/service/mss/mss41335/057/0500/0582t.gif"
+},
+"metadata":[
+    {
+        "value": [
+            "Stephens, Alexander Hamilton, 1812-1883"
+        ], 
+        "label": "Contributors"
+    }, 
+    {
+        "value": [
+            "April 14, 1834"
+        ], 
+        "label": "Created Published"
+    }, 
+    {
+        "value": [
+            "manuscript/mixed material"
+        ], 
+        "label": "Original Format"
+    }, 
+    {
+        "value": [
+            "political parties", 
+            "united states", 
+            "reconstruction (u.s. history,)", 
+            "slavery", 
+            "law and legislation", 
+            "states' rights (american politics)", 
+            "confederate states of america", 
+            "history", 
+            "politics and government", 
+            "georgia", 
+            "southern states", 
+            "civil war", 
+            "19th century", 
+            "manuscripts"
+        ], 
+        "label": "Subjects"
+    }, 
+    {
+        "value": [
+            "image"
+        ], 
+        "label": "Online Format"
+    }
+]}
