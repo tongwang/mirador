@@ -12,7 +12,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0001/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0001"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -68,7 +68,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0002/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0002"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -124,7 +124,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0003/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0003"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -180,7 +180,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0004/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0004"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -236,7 +236,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0005/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0005"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -292,7 +292,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0006/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0006"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -348,7 +348,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0007/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0007"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -404,7 +404,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0008/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0008"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -460,7 +460,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0009/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0009"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -516,7 +516,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0010/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0010"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -572,7 +572,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0011/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0011"
                     }, 
                     "format": "image/jpeg"
                 }, 
@@ -628,7 +628,7 @@
                     "service": {
                         "profile": "http://iiif.io/api/image/2/level2.json", 
                         "@context": "http://iiif.io/api/image/2/context.json", 
-                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0012/info.json"
+                        "@id": "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_doggerbank_ver01:data:sn78004456:print:1916101501:0012"
                     }, 
                     "format": "image/jpeg"
                 }, 
